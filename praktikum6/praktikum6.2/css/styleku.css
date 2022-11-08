@@ -1,0 +1,43 @@
+body{
+    
+}
+
+#header{
+    background-color: green;
+    text-align: center;
+}
+
+
+h1 {
+    color: blue;
+    
+}
+
+blockquote {
+    background-color: olivedrab;
+    border: 1px dotted black 
+}
+
+.gambar{
+    text-align: center;
+}
+
+.nav{
+    text-align: center;
+
+}
+
+.nav ul {
+    list-style: none;
+    
+}
+
+.jawa {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.koleksi{
+    background-color: black;
+    text-align: center;
+}
